@@ -1,0 +1,10 @@
+dynamodb:
+  table_name: "saas-tenant-data"
+  billing_table: "saas-billing"
+sqs:
+  billing_queue: ""
+auth:
+  cognito_user_pool_id: ""
+  cognito_client_id: ""
+billing:
+  cost_per_unit: 0.01
