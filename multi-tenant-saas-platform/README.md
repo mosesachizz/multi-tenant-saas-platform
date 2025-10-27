@@ -96,7 +96,7 @@ Follow these steps to set up and deploy the Multi-Tenant SaaS Platform locally a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/multi-tenant-saas-platform.git
+git clone https://github.com/mosesachizz/multi-tenant-saas-platform.git
 cd multi-tenant-saas-platform
 ```
 
@@ -159,4 +159,5 @@ The GitHub Actions workflow (`.github/workflows/ci.yml`) runs tests, linting, an
 
 ## License
 This project is licensed under the **MIT License** - see the [MIT License](LICENSE) file for details.
+
 
